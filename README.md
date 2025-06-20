@@ -17,9 +17,11 @@ python age.py
 pip install art
 
 
-input 
+ 
 # You will be asked to input
 # the year you was boarn
+input
 
-output
+
 # It will out put your age to date
+output
